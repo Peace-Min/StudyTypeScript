@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "checkJs": true,
+        "noImplicitAny": true 
+        // 기본적인 타입 Any라도 설정해야함
+    }
+}
