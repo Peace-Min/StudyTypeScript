@@ -1,13 +1,13 @@
-// {
-//     "editor.codeActionsOnSave": {
-//         // "source.fixAll.eslint": true,
-//     },
-//     "eslint.alwaysShowStatus": true,
-//     "eslint.workingDirectories": [
-//         {"mode": "auto"}
-//     ],
-//     "eslint.validate": [
-//         "javascript",
-//         "typescript"
-//     ],
-//   }
+{
+    "editor.codeActionsOnSave": {
+        // "source.fixAll.eslint": true,
+    },
+    "eslint.alwaysShowStatus": true,
+    "eslint.workingDirectories": [
+        {"mode": "auto"}
+    ],
+    "eslint.validate": [
+        "javascript",
+        "typescript"
+    ],
+  }
