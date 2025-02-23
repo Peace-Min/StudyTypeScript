@@ -8,4 +8,9 @@ class Person{
 var soo = new Person('수',30);
 console.log(soo); ; 
 console.log(soo); ;
+console.log(soo); ;
+console.log(soo); ;
+console.log(soo); ;
+console.log(soo); ;
+console.log(soo); ;
 
